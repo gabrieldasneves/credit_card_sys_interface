@@ -10,8 +10,18 @@ Project developed in an exclusive and free event, promoted by Rocketseat.
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
+
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="default card pattern" src="https://github.com/gabrieldasneves/credit_card_sys_interface/blob/main/src/assets/credit_cad_default.png?raw=true">
+</p>
+
+<p align="center">
+  <img alt="automation to mastercard pattern" src="https://github.com/gabrieldasneves/credit_card_sys_interface/blob/main/src/assets/credit_card_mastercard.png?raw=true">
+</p>
+
+<p align="center">
+  <img alt="automation to visa pattern" src="https://github.com/gabrieldasneves/credit_card_sys_interface/blob/main/src/assets/credit_card_visa.png?raw=true">
 </p>
 
 <br>
