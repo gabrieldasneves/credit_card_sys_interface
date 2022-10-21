@@ -42,6 +42,5 @@ This component simulates a credit card form, where it is possible to add mask to
   <img alt="automation to visa pattern" src="https://github.com/gabrieldasneves/credit_card_sys_interface/blob/main/src/assets/credit_card_visa.png?raw=true">
 </p>
 
-Check it out: [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
+Check it out: [Link](https://credit-card-sys-interface.vercel.app/).
 With ♥ by Gabriel das Neves
