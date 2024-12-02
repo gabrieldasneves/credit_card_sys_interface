@@ -1,10 +1,6 @@
 <h1 align="center"> Credit Card sign in interface </h1>
 
 <p align="center">
-Project developed in an exclusive and free event, promoted by Rocketseat.
-</p>
-
-<p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
